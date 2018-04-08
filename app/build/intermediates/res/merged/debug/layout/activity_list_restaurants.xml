@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    
+<TextView
+android:background="@drawable/listofrestaurants"
+android:layout_alignBottom="@+id/mainText"
+android:textStyle="bold"
+android:textColor="#ffffff"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:id="@+id/mainText"
+android:text="@string/labellistrestaurants" />
+	 
+<ListView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:id="@+id/listview"
+android:background="#aaaaaa" />
+
+<!-- android:id="@id/list" -->
+<!--  android:id="@android:id/list"-->
+	     
+</LinearLayout>

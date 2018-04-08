@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\restaurant.png",
+        "source": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\src\\main\\res\\drawable-hdpi\\restaurant.png"
+    },
+    {
+        "merged": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.png",
+        "source": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login.png",
+        "source": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    }
+]

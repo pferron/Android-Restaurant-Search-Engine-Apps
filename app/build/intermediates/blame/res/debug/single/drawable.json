@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginbackground.png",
+        "source": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\src\\main\\res\\drawable\\loginbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listofrestaurants.png",
+        "source": "C:\\Users\\kvanderwarren\\Documents\\Philippe\\Android Studio - Restaurant Search Engine\\app\\src\\main\\res\\drawable\\listofrestaurants.png"
+    }
+]
